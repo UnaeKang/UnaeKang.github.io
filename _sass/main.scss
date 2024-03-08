@@ -11,3 +11,17 @@
 @import 'layout/archives';
 @import 'layout/categories';
 @import 'layout/category-tag';
+
+@font-face {
+    font-family: 'SejonghospitalLight';
+    src: url('https://cdn.jsdelivr.net/gh/fontbee/font@main/Incheonsjh/SejonghospitalLight.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SejonghospitalBold';
+    src: url('https://cdn.jsdelivr.net/gh/fontbee/font@main/Incheonsjh/SejonghospitalBold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
