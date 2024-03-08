@@ -217,6 +217,5 @@ jekyll-archives:
     category: /categories/:name/
 
 jekyll_admin:
-   hidden_links:
-   homepage: ""
-
+  hidden_links:
+  homepage: ""
