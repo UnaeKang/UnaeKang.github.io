@@ -35,3 +35,14 @@ order: 1
 
 [클라우드 활용 업무지원 시스템 구축 프로젝트_그룹웨어](https://github.com/UnaeKang/cocean)
 
+
+☑️ 최종 프로젝트의 주제는 그룹웨어입니다.<br>
+저희 팀은 아쿠아리움에서 사용하는 그룹웨어를 세부 주제로 정했고,<br>
+저는 메인 페이지와 수조파트 모든 기능 개발과 전체 view의 디자인, 발표를 담당했습니다.<br>
+아래 영상은 로그인 후 메인 페이지와 수조 관리, 특정 수조의 상세보기 화면에서 해당 수조에 서식하는 생물 관리 페이지까지<br> 연계되는 과정을 짧게 구현한 영상입니다.
+
+<iframe width="863" height="472" src="https://www.youtube.com/embed/HizKjt0ltr4" title="Cocean 프로젝트_수조파트 구현" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+
