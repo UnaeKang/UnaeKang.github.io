@@ -4,7 +4,7 @@
   <!-- markdownlint-disable-next-line -->
   # Chirpy Jekyll Theme
 
-  A minimal, responsive, and feature-rich Jekyll theme for technical writing.
+  
 
   [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy?color=brightgreen)][gem]&nbsp;
   [![CI](https://github.com/cotes2020/jekyll-theme-chirpy/actions/workflows/ci.yml/badge.svg?branch=master&event=push)][ci]&nbsp;
