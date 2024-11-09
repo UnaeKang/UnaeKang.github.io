@@ -1,6 +1,7 @@
 ---
 title : model2 프로젝트 생성
 categories : [CRUD, model2]
+date: 2024-07-11 20:21:52 +09:00
 tags : [crud, til]
 ---
 

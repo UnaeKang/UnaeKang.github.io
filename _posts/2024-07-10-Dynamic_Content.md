@@ -1,6 +1,7 @@
 ---
 title : 동적 컨텐츠(Dynamic Content)
 categories : [CRUD, model2]
+date: 2024-07-10 16:25:42 +09:00
 tags : [crud, til]
 ---
 
